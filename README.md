@@ -39,7 +39,7 @@ The NShop POS (Point Of Sale) system is designed to help Nidula Shop manage its 
   - Regular backups for database security
 
 ## Documentation
-For detailed information, please refer to the [Software Requirements Specification (SRS) document](Software Requirements Specification.pdf).
+For detailed information, please refer to the [Software Requirements Specification (SRS) document](https://github.com/NidulaGunawardana/NShop/blob/7b2af76e1ea78e046e18176e54173182882a82a5/Software%20Requirements%20Specification.pdf).
 
 ## Contact
 - **Prepared by:** Nidula Gunawardana
